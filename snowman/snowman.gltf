@@ -367,8 +367,8 @@
     "extras": {
       "author": "Tommensink (https://sketchfab.com/Tommensink)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/models/7153640f14f849b29e464d9f92d7c35a",
-      "title": "snowman"
+      "source": "https://sketchfab.com/models/62a16004a53743b29dd3d01088406873",
+      "title": "snowman3"
     },
     "generator": "Sketchfab-3.54.8-rc1",
     "version": "2.0"
@@ -421,13 +421,13 @@
   ],
   "images": [
     {
-      "uri": "textures/material_0_baseColor.jpeg"
+      "uri": "textures/Mat_1_2_baseColor.jpeg"
     },
     {
       "uri": "textures/Mat_0_1_baseColor.jpeg"
     },
     {
-      "uri": "textures/Mat_1_2_baseColor.jpeg"
+      "uri": "textures/material_0_baseColor.jpeg"
     }
   ],
   "materials": [
@@ -447,7 +447,7 @@
           1
         ],
         "baseColorTexture": {
-          "index": 0,
+          "index": 2,
           "texCoord": 0
         },
         "metallicFactor": 0,
@@ -493,7 +493,7 @@
           1
         ],
         "baseColorTexture": {
-          "index": 2,
+          "index": 0,
           "texCoord": 0
         },
         "metallicFactor": 0,
@@ -623,17 +623,17 @@
         6
       ],
       "matrix": [
-        -0.5,
-        -0,
+        0.5,
         0,
         0,
         0,
-        4.2146847401003384e-08,
-        0.49999999999999828,
         0,
-        -0,
-        0.49999999999999828,
-        -4.2146847456514536e-08,
+        0.5,
+        0,
+        0,
+        0,
+        0,
+        0.5,
         0,
         0,
         0,
@@ -651,24 +651,6 @@
     {
       "children": [
         8
-      ],
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        -1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
       ],
       "name": "a1f6a14753e5416aa96cb9c8ea9e8c2c.fbx_3"
     },
